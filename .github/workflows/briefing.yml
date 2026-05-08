@@ -1,0 +1,51 @@
+name: Daily Briefing
+
+on:
+  schedule:
+    # 6am UTC = 8am Madrid in summer (CEST, UTC+2)
+    # Change to '0 7 * * *' in winter (CET, UTC+1) — November to March
+    - cron: '0 6 * * *'
+  workflow_dispatch: # allows manual trigger from GitHub UI for testing
+
+permissions:
+  contents: write  # needed to commit seen_repos.json back to the repo
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run briefing
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          PORTFOLIO_STOCKS: ${{ secrets.PORTFOLIO_STOCKS }}
+          PORTFOLIO_ETFS: ${{ secrets.PORTFOLIO_ETFS }}
+          PORTFOLIO_CRYPTO: ${{ secrets.PORTFOLIO_CRYPTO }}
+          BRIEFING_HOUR: '8'
+          BRIEFING_MINUTE: '0'
+          TIMEZONE: Europe/Madrid
+        run: python main.py
+
+      - name: Save seen repos state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add storage/seen_repos.json
+          git diff --staged --quiet || git commit -m "chore: update seen repos"
+          git push
