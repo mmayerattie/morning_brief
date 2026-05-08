@@ -1,9 +1,14 @@
 {
   "repos": [
+    "multica-ai/multica",
     "NousResearch/hermes-agent",
-    "Alishahryar1/free-claude-code",
+    "AIDC-AI/Pixelle-Video",
+    "lsdefine/GenericAgent",
+    "addyosmani/agent-skills",
     "forrestchang/andrej-karpathy-skills",
     "mattpocock/skills",
-    "multica-ai/multica"
+    "shiyu-coder/Kronos",
+    "Alishahryar1/free-claude-code",
+    "OpenBMB/VoxCPM"
   ]
 }
