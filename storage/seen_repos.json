@@ -1,14 +1,19 @@
 {
   "repos": [
-    "multica-ai/multica",
-    "NousResearch/hermes-agent",
-    "AIDC-AI/Pixelle-Video",
+    "thedotmack/claude-mem",
+    "coleam00/Archon",
     "lsdefine/GenericAgent",
-    "addyosmani/agent-skills",
+    "AIDC-AI/Pixelle-Video",
+    "NousResearch/hermes-agent",
     "forrestchang/andrej-karpathy-skills",
-    "mattpocock/skills",
     "shiyu-coder/Kronos",
+    "microsoft/markitdown",
+    "ComposioHQ/awesome-codex-skills",
     "Alishahryar1/free-claude-code",
+    "multica-ai/multica",
+    "Z4nzu/hackingtool",
+    "mattpocock/skills",
+    "addyosmani/agent-skills",
     "OpenBMB/VoxCPM"
   ]
 }
