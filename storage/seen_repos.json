@@ -1,20 +1,23 @@
 {
   "repos": [
-    "Alishahryar1/free-claude-code",
-    "microsoft/markitdown",
-    "coleam00/Archon",
-    "NousResearch/hermes-agent",
-    "thedotmack/claude-mem",
-    "multica-ai/multica",
-    "ComposioHQ/awesome-codex-skills",
-    "Z4nzu/hackingtool",
-    "lsdefine/GenericAgent",
-    "forrestchang/andrej-karpathy-skills",
     "addyosmani/agent-skills",
-    "AIDC-AI/Pixelle-Video",
+    "multica-ai/multica",
+    "Alishahryar1/free-claude-code",
+    "mattpocock/skills",
+    "soxoj/maigret",
+    "hugohe3/ppt-master",
+    "coleam00/Archon",
+    "microsoft/markitdown",
     "OpenBMB/VoxCPM",
-    "shiyu-coder/Kronos",
+    "lsdefine/GenericAgent",
+    "TauricResearch/TradingAgents",
+    "forrestchang/andrej-karpathy-skills",
     "Anil-matcha/Open-Generative-AI",
-    "mattpocock/skills"
+    "shiyu-coder/Kronos",
+    "AIDC-AI/Pixelle-Video",
+    "NousResearch/hermes-agent",
+    "ComposioHQ/awesome-codex-skills",
+    "thedotmack/claude-mem",
+    "Z4nzu/hackingtool"
   ]
 }
