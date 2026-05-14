@@ -1,27 +1,9 @@
 {
   "repos": [
-    "addyosmani/agent-skills",
-    "TauricResearch/TradingAgents",
-    "multica-ai/multica",
-    "NousResearch/hermes-agent",
-    "forrestchang/andrej-karpathy-skills",
-    "hugohe3/ppt-master",
-    "multica-ai/andrej-karpathy-skills",
-    "AIDC-AI/Pixelle-Video",
-    "microsoft/markitdown",
-    "Alishahryar1/free-claude-code",
-    "OpenBMB/VoxCPM",
-    "Z4nzu/hackingtool",
-    "shiyu-coder/Kronos",
     "lsdefine/GenericAgent",
-    "mattpocock/skills",
-    "z-lab/dflash",
-    "Tracer-Cloud/opensre",
-    "thedotmack/claude-mem",
-    "soxoj/maigret",
-    "anthropics/financial-services",
-    "coleam00/Archon",
-    "ComposioHQ/awesome-codex-skills",
-    "Anil-matcha/Open-Generative-AI"
+    "Alishahryar1/free-claude-code",
+    "AIDC-AI/Pixelle-Video",
+    "multica-ai/andrej-karpathy-skills",
+    "mattpocock/skills"
   ]
 }
