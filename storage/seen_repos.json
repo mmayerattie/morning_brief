@@ -1,9 +1,14 @@
 {
   "repos": [
-    "lsdefine/GenericAgent",
-    "Alishahryar1/free-claude-code",
     "AIDC-AI/Pixelle-Video",
+    "anthropics/financial-services",
     "multica-ai/andrej-karpathy-skills",
-    "mattpocock/skills"
+    "mattpocock/skills",
+    "ComposioHQ/awesome-codex-skills",
+    "Z4nzu/hackingtool",
+    "addyosmani/agent-skills",
+    "Alishahryar1/free-claude-code",
+    "NousResearch/hermes-agent",
+    "lsdefine/GenericAgent"
   ]
 }
