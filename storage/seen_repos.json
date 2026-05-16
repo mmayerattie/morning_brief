@@ -1,14 +1,19 @@
 {
   "repos": [
-    "AIDC-AI/Pixelle-Video",
-    "anthropics/financial-services",
-    "multica-ai/andrej-karpathy-skills",
-    "mattpocock/skills",
     "ComposioHQ/awesome-codex-skills",
-    "Z4nzu/hackingtool",
-    "addyosmani/agent-skills",
-    "Alishahryar1/free-claude-code",
+    "multica-ai/andrej-karpathy-skills",
     "NousResearch/hermes-agent",
-    "lsdefine/GenericAgent"
+    "mattpocock/skills",
+    "Z4nzu/hackingtool",
+    "Anil-matcha/Open-Generative-AI",
+    "lsdefine/GenericAgent",
+    "Tracer-Cloud/opensre",
+    "TauricResearch/TradingAgents",
+    "soxoj/maigret",
+    "anthropics/financial-services",
+    "Alishahryar1/free-claude-code",
+    "addyosmani/agent-skills",
+    "AIDC-AI/Pixelle-Video",
+    "CloakHQ/CloakBrowser"
   ]
 }
