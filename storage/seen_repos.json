@@ -1,19 +1,24 @@
 {
   "repos": [
-    "ComposioHQ/awesome-codex-skills",
-    "multica-ai/andrej-karpathy-skills",
-    "NousResearch/hermes-agent",
-    "mattpocock/skills",
-    "Z4nzu/hackingtool",
-    "Anil-matcha/Open-Generative-AI",
-    "lsdefine/GenericAgent",
     "Tracer-Cloud/opensre",
-    "TauricResearch/TradingAgents",
-    "soxoj/maigret",
+    "multica-ai/andrej-karpathy-skills",
+    "CloakHQ/CloakBrowser",
+    "Anil-matcha/Open-Generative-AI",
+    "rohitg00/agentmemory",
+    "ComposioHQ/awesome-codex-skills",
     "anthropics/financial-services",
+    "decolua/9router",
+    "mattpocock/skills",
+    "lsdefine/GenericAgent",
     "Alishahryar1/free-claude-code",
-    "addyosmani/agent-skills",
+    "NousResearch/hermes-agent",
     "AIDC-AI/Pixelle-Video",
-    "CloakHQ/CloakBrowser"
+    "Z4nzu/hackingtool",
+    "addyosmani/agent-skills",
+    "heygen-com/hyperframes",
+    "soxoj/maigret",
+    "thunderbird/thunderbolt",
+    "TauricResearch/TradingAgents",
+    "zilliztech/claude-context"
   ]
 }
