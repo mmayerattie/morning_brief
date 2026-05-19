@@ -1,26 +1,9 @@
 {
   "repos": [
-    "addyosmani/agent-skills",
-    "NousResearch/hermes-agent",
-    "ruvnet/ruflo",
-    "zilliztech/claude-context",
-    "multica-ai/andrej-karpathy-skills",
-    "heygen-com/hyperframes",
-    "Alishahryar1/free-claude-code",
     "AIDC-AI/Pixelle-Video",
-    "TauricResearch/TradingAgents",
-    "CloakHQ/CloakBrowser",
-    "soxoj/maigret",
-    "thunderbird/thunderbolt",
-    "Fincept-Corporation/FinceptTerminal",
-    "decolua/9router",
-    "lsdefine/GenericAgent",
+    "multica-ai/andrej-karpathy-skills",
+    "Alishahryar1/free-claude-code",
     "mattpocock/skills",
-    "Anil-matcha/Open-Generative-AI",
-    "Tracer-Cloud/opensre",
-    "rohitg00/agentmemory",
-    "ComposioHQ/awesome-codex-skills",
-    "anthropics/financial-services",
-    "Z4nzu/hackingtool"
+    "Fincept-Corporation/FinceptTerminal"
   ]
 }
