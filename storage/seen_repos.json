@@ -1,9 +1,14 @@
 {
   "repos": [
-    "AIDC-AI/Pixelle-Video",
-    "multica-ai/andrej-karpathy-skills",
-    "Alishahryar1/free-claude-code",
     "mattpocock/skills",
-    "Fincept-Corporation/FinceptTerminal"
+    "Fincept-Corporation/FinceptTerminal",
+    "multica-ai/andrej-karpathy-skills",
+    "rohitg00/agentmemory",
+    "Z4nzu/hackingtool",
+    "anthropics/financial-services",
+    "CloakHQ/CloakBrowser",
+    "Alishahryar1/free-claude-code",
+    "soxoj/maigret",
+    "AIDC-AI/Pixelle-Video"
   ]
 }
