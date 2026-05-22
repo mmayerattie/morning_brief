@@ -1,19 +1,22 @@
 {
   "repos": [
-    "Fincept-Corporation/FinceptTerminal",
-    "Z4nzu/hackingtool",
-    "decolua/9router",
-    "CloakHQ/CloakBrowser",
-    "anthropics/financial-services",
+    "huggingface/ml-intern",
     "addyosmani/agent-skills",
+    "AIDC-AI/Pixelle-Video",
+    "Fincept-Corporation/FinceptTerminal",
     "Alishahryar1/free-claude-code",
-    "multica-ai/andrej-karpathy-skills",
     "rohitg00/agentmemory",
-    "soxoj/maigret",
     "colbymchenry/codegraph",
     "TauricResearch/TradingAgents",
-    "AIDC-AI/Pixelle-Video",
+    "Imbad0202/academic-research-skills",
+    "ruvnet/ruflo",
+    "multica-ai/andrej-karpathy-skills",
+    "soxoj/maigret",
+    "Z4nzu/hackingtool",
+    "anthropics/financial-services",
     "mattpocock/skills",
-    "Imbad0202/academic-research-skills"
+    "CloakHQ/CloakBrowser",
+    "Anil-matcha/Open-Generative-AI",
+    "decolua/9router"
   ]
 }
