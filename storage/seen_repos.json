@@ -1,34 +1,9 @@
 {
   "repos": [
-    "AIDC-AI/Pixelle-Video",
-    "CJackHwang/ds2api",
-    "HKUDS/ViMax",
-    "warpdotdev/warp",
-    "ComposioHQ/awesome-codex-skills",
-    "yikart/AiToEarn",
-    "mattpocock/sandcastle",
     "mattpocock/skills",
-    "rohitg00/ai-engineering-from-scratch",
     "rohitg00/agentmemory",
-    "1jehuang/jcode",
-    "LearningCircuit/local-deep-research",
-    "CloakHQ/CloakBrowser",
-    "bytedance/UI-TARS-desktop",
-    "ruvnet/ruflo",
-    "TauricResearch/TradingAgents",
-    "Fincept-Corporation/FinceptTerminal",
-    "soxoj/maigret",
-    "Lum1104/Understand-Anything",
-    "Anil-matcha/Open-Generative-AI",
-    "huggingface/ml-intern",
     "colbymchenry/codegraph",
-    "Z4nzu/hackingtool",
-    "Alishahryar1/free-claude-code",
-    "Imbad0202/academic-research-skills",
-    "refactoringhq/tolaria",
     "anthropics/financial-services",
-    "multica-ai/andrej-karpathy-skills",
-    "addyosmani/agent-skills",
-    "decolua/9router"
+    "CloakHQ/CloakBrowser"
   ]
 }
