@@ -1,9 +1,14 @@
 {
   "repos": [
-    "mattpocock/skills",
-    "rohitg00/agentmemory",
-    "colbymchenry/codegraph",
+    "ruvnet/ruflo",
     "anthropics/financial-services",
-    "CloakHQ/CloakBrowser"
+    "colbymchenry/codegraph",
+    "rohitg00/ai-engineering-from-scratch",
+    "Lum1104/Understand-Anything",
+    "decolua/9router",
+    "rohitg00/agentmemory",
+    "CloakHQ/CloakBrowser",
+    "mattpocock/skills",
+    "Imbad0202/academic-research-skills"
   ]
 }
