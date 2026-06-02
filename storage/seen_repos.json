@@ -1,22 +1,9 @@
 {
   "repos": [
-    "colbymchenry/codegraph",
-    "rohitg00/ai-engineering-from-scratch",
-    "CloakHQ/CloakBrowser",
     "anthropics/financial-services",
-    "Imbad0202/academic-research-skills",
-    "rohitg00/agentmemory",
-    "yikart/AiToEarn",
-    "bytedance/UI-TARS-desktop",
-    "Lum1104/Understand-Anything",
-    "soxoj/maigret",
-    "decolua/9router",
-    "ruvnet/RuView",
     "Hmbown/CodeWhale",
-    "ruvnet/ruflo",
-    "AIDC-AI/Pixelle-Video",
-    "harry0703/MoneyPrinterTurbo",
-    "mattpocock/skills",
-    "multica-ai/andrej-karpathy-skills"
+    "colbymchenry/codegraph",
+    "CloakHQ/CloakBrowser",
+    "rohitg00/agentmemory"
   ]
 }
