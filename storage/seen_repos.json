@@ -1,9 +1,14 @@
 {
   "repos": [
+    "fathah/hermes-desktop",
+    "harry0703/MoneyPrinterTurbo",
+    "rohitg00/agentmemory",
     "anthropics/financial-services",
-    "Hmbown/CodeWhale",
-    "colbymchenry/codegraph",
+    "Lum1104/Understand-Anything",
+    "Imbad0202/academic-research-skills",
+    "rohitg00/ai-engineering-from-scratch",
     "CloakHQ/CloakBrowser",
-    "rohitg00/agentmemory"
+    "Hmbown/CodeWhale",
+    "colbymchenry/codegraph"
   ]
 }
