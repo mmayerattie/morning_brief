@@ -1,14 +1,19 @@
 {
   "repos": [
-    "fathah/hermes-desktop",
-    "harry0703/MoneyPrinterTurbo",
-    "rohitg00/agentmemory",
-    "anthropics/financial-services",
+    "yikart/AiToEarn",
     "Lum1104/Understand-Anything",
     "Imbad0202/academic-research-skills",
-    "rohitg00/ai-engineering-from-scratch",
-    "CloakHQ/CloakBrowser",
     "Hmbown/CodeWhale",
-    "colbymchenry/codegraph"
+    "bytedance/UI-TARS-desktop",
+    "colbymchenry/codegraph",
+    "fathah/hermes-desktop",
+    "CloakHQ/CloakBrowser",
+    "HKUDS/ViMax",
+    "rohitg00/agentmemory",
+    "decolua/9router",
+    "rohitg00/ai-engineering-from-scratch",
+    "harry0703/MoneyPrinterTurbo",
+    "anthropics/financial-services",
+    "mattpocock/skills"
   ]
 }
