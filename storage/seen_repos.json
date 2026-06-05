@@ -1,19 +1,24 @@
 {
   "repos": [
-    "yikart/AiToEarn",
-    "Lum1104/Understand-Anything",
+    "CloakHQ/CloakBrowser",
+    "anthropics/financial-services",
+    "rohitg00/ai-engineering-from-scratch",
     "Imbad0202/academic-research-skills",
     "Hmbown/CodeWhale",
     "bytedance/UI-TARS-desktop",
-    "colbymchenry/codegraph",
-    "fathah/hermes-desktop",
-    "CloakHQ/CloakBrowser",
-    "HKUDS/ViMax",
-    "rohitg00/agentmemory",
-    "decolua/9router",
-    "rohitg00/ai-engineering-from-scratch",
+    "Lum1104/Understand-Anything",
     "harry0703/MoneyPrinterTurbo",
-    "anthropics/financial-services",
-    "mattpocock/skills"
+    "datawhalechina/easy-vibe",
+    "fathah/hermes-desktop",
+    "decolua/9router",
+    "rohitg00/agentmemory",
+    "HKUDS/ViMax",
+    "can1357/oh-my-pi",
+    "colbymchenry/codegraph",
+    "mattpocock/skills",
+    "yikart/AiToEarn",
+    "chopratejas/headroom",
+    "ruvnet/RuView",
+    "HKUDS/AI-Trader"
   ]
 }
