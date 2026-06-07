@@ -1,9 +1,14 @@
 {
   "repos": [
-    "CloakHQ/CloakBrowser",
     "colbymchenry/codegraph",
-    "rohitg00/agentmemory",
+    "Imbad0202/academic-research-skills",
+    "fathah/hermes-desktop",
     "Lum1104/Understand-Anything",
-    "chopratejas/headroom"
+    "ruvnet/RuView",
+    "chopratejas/headroom",
+    "CloakHQ/CloakBrowser",
+    "rohitg00/ai-engineering-from-scratch",
+    "rohitg00/agentmemory",
+    "harry0703/MoneyPrinterTurbo"
   ]
 }
