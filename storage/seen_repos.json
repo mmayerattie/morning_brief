@@ -1,29 +1,9 @@
 {
   "repos": [
-    "Lum1104/Understand-Anything",
-    "CloakHQ/CloakBrowser",
-    "mattpocock/skills",
-    "supertone-inc/supertonic",
-    "rohitg00/agentmemory",
-    "oven-sh/bun",
-    "anthropics/financial-services",
-    "millionco/react-doctor",
-    "Imbad0202/academic-research-skills",
-    "can1357/oh-my-pi",
-    "chopratejas/headroom",
-    "harry0703/MoneyPrinterTurbo",
-    "Egonex-AI/Understand-Anything",
-    "ruvnet/RuView",
-    "anthropics/knowledge-work-plugins",
-    "iii-hq/iii",
-    "hardikpandya/stop-slop",
     "colbymchenry/codegraph",
-    "HKUDS/ViMax",
+    "harry0703/MoneyPrinterTurbo",
     "tinyhumansai/openhuman",
-    "microsoft/markitdown",
-    "rohitg00/ai-engineering-from-scratch",
-    "Leonxlnx/taste-skill",
-    "fathah/hermes-desktop",
-    "yikart/AiToEarn"
+    "chopratejas/headroom",
+    "Egonex-AI/Understand-Anything"
   ]
 }
