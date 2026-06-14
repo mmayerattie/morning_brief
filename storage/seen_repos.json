@@ -1,9 +1,14 @@
 {
   "repos": [
-    "colbymchenry/codegraph",
-    "harry0703/MoneyPrinterTurbo",
+    "rohitg00/ai-engineering-from-scratch",
+    "Egonex-AI/Understand-Anything",
+    "can1357/oh-my-pi",
+    "Imbad0202/academic-research-skills",
     "tinyhumansai/openhuman",
-    "chopratejas/headroom",
-    "Egonex-AI/Understand-Anything"
+    "ruvnet/RuView",
+    "hardikpandya/stop-slop",
+    "harry0703/MoneyPrinterTurbo",
+    "colbymchenry/codegraph",
+    "chopratejas/headroom"
   ]
 }
