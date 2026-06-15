@@ -1,14 +1,19 @@
 {
   "repos": [
-    "rohitg00/ai-engineering-from-scratch",
-    "Egonex-AI/Understand-Anything",
-    "can1357/oh-my-pi",
+    "harry0703/MoneyPrinterTurbo",
     "Imbad0202/academic-research-skills",
+    "Egonex-AI/Understand-Anything",
+    "colbymchenry/codegraph",
+    "rohitg00/ai-engineering-from-scratch",
+    "apple/container",
+    "can1357/oh-my-pi",
     "tinyhumansai/openhuman",
+    "chopratejas/headroom",
+    "microsoft/markitdown",
+    "anthropics/knowledge-work-plugins",
+    "ogulcancelik/herdr",
     "ruvnet/RuView",
     "hardikpandya/stop-slop",
-    "harry0703/MoneyPrinterTurbo",
-    "colbymchenry/codegraph",
-    "chopratejas/headroom"
+    "Leonxlnx/taste-skill"
   ]
 }
