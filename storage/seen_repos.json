@@ -1,19 +1,24 @@
 {
   "repos": [
-    "harry0703/MoneyPrinterTurbo",
+    "iii-hq/iii",
     "Imbad0202/academic-research-skills",
-    "Egonex-AI/Understand-Anything",
-    "colbymchenry/codegraph",
-    "rohitg00/ai-engineering-from-scratch",
-    "apple/container",
-    "can1357/oh-my-pi",
-    "tinyhumansai/openhuman",
-    "chopratejas/headroom",
-    "microsoft/markitdown",
-    "anthropics/knowledge-work-plugins",
-    "ogulcancelik/herdr",
+    "CloakHQ/CloakBrowser",
+    "rohitg00/agentmemory",
     "ruvnet/RuView",
+    "ogulcancelik/herdr",
+    "mattpocock/skills",
+    "microsoft/markitdown",
+    "HKUDS/ViMax",
+    "apple/container",
+    "tinyhumansai/openhuman",
+    "rohitg00/ai-engineering-from-scratch",
     "hardikpandya/stop-slop",
-    "Leonxlnx/taste-skill"
+    "Egonex-AI/Understand-Anything",
+    "chopratejas/headroom",
+    "anthropics/knowledge-work-plugins",
+    "colbymchenry/codegraph",
+    "harry0703/MoneyPrinterTurbo",
+    "Leonxlnx/taste-skill",
+    "can1357/oh-my-pi"
   ]
 }
