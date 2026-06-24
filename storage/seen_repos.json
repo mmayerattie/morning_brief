@@ -1,9 +1,14 @@
 {
   "repos": [
+    "apple/container",
+    "Leonxlnx/taste-skill",
+    "esengine/DeepSeek-Reasonix",
     "harry0703/MoneyPrinterTurbo",
+    "mvanhorn/last30days-skill",
+    "Panniantong/Agent-Reach",
     "Egonex-AI/Understand-Anything",
     "microsoft/markitdown",
-    "esengine/DeepSeek-Reasonix",
-    "apple/container"
+    "DeusData/codebase-memory-mcp",
+    "iptv-org/iptv"
   ]
 }
