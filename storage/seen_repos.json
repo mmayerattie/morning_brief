@@ -1,14 +1,19 @@
 {
   "repos": [
+    "esengine/DeepSeek-Reasonix",
     "apple/container",
     "Leonxlnx/taste-skill",
-    "esengine/DeepSeek-Reasonix",
-    "harry0703/MoneyPrinterTurbo",
-    "mvanhorn/last30days-skill",
-    "Panniantong/Agent-Reach",
     "Egonex-AI/Understand-Anything",
-    "microsoft/markitdown",
+    "Panniantong/Agent-Reach",
+    "iptv-org/iptv",
+    "microsoft/Webwright",
+    "lfnovo/open-notebook",
     "DeusData/codebase-memory-mcp",
-    "iptv-org/iptv"
+    "harry0703/MoneyPrinterTurbo",
+    "calesthio/OpenMontage",
+    "phuryn/pm-skills",
+    "mvanhorn/last30days-skill",
+    "colbymchenry/codegraph",
+    "microsoft/markitdown"
   ]
 }
