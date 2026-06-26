@@ -1,19 +1,24 @@
 {
   "repos": [
+    "iptv-org/iptv",
+    "mvanhorn/last30days-skill",
+    "phuryn/pm-skills",
+    "calesthio/OpenMontage",
+    "openai/plugins",
+    "colbymchenry/codegraph",
+    "harry0703/MoneyPrinterTurbo",
+    "Egonex-AI/Understand-Anything",
+    "microsoft/Webwright",
+    "microsoft/markitdown",
+    "lfnovo/open-notebook",
+    "can1357/oh-my-pi",
+    "tashfeenahmed/freellmapi",
+    "mukul975/Anthropic-Cybersecurity-Skills",
     "esengine/DeepSeek-Reasonix",
+    "DeusData/codebase-memory-mcp",
+    "Panniantong/Agent-Reach",
     "apple/container",
     "Leonxlnx/taste-skill",
-    "Egonex-AI/Understand-Anything",
-    "Panniantong/Agent-Reach",
-    "iptv-org/iptv",
-    "microsoft/Webwright",
-    "lfnovo/open-notebook",
-    "DeusData/codebase-memory-mcp",
-    "harry0703/MoneyPrinterTurbo",
-    "calesthio/OpenMontage",
-    "phuryn/pm-skills",
-    "mvanhorn/last30days-skill",
-    "colbymchenry/codegraph",
-    "microsoft/markitdown"
+    "hardikpandya/stop-slop"
   ]
 }
