@@ -1,31 +1,9 @@
 {
   "repos": [
-    "microsoft/Webwright",
-    "harry0703/MoneyPrinterTurbo",
-    "esengine/DeepSeek-Reasonix",
+    "DeusData/codebase-memory-mcp",
+    "mvanhorn/last30days-skill",
     "calesthio/OpenMontage",
     "Panniantong/Agent-Reach",
-    "asgeirtj/system_prompts_leaks",
-    "NVlabs/Eagle",
-    "simplex-chat/simplex-chat",
-    "apple/container",
-    "tashfeenahmed/freellmapi",
-    "stablyai/orca",
-    "colbymchenry/codegraph",
-    "iptv-org/iptv",
-    "mvanhorn/last30days-skill",
-    "Egonex-AI/Understand-Anything",
-    "phuryn/pm-skills",
-    "lfnovo/open-notebook",
-    "DeusData/codebase-memory-mcp",
-    "supermemoryai/supermemory",
-    "ogulcancelik/herdr",
-    "hardikpandya/stop-slop",
-    "microsoft/markitdown",
-    "Open-LLM-VTuber/Open-LLM-VTuber",
-    "mukul975/Anthropic-Cybersecurity-Skills",
-    "openai/plugins",
-    "Leonxlnx/taste-skill",
-    "can1357/oh-my-pi"
+    "apple/container"
   ]
 }
