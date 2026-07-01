@@ -1,9 +1,14 @@
 {
   "repos": [
-    "DeusData/codebase-memory-mcp",
-    "mvanhorn/last30days-skill",
-    "calesthio/OpenMontage",
     "Panniantong/Agent-Reach",
-    "apple/container"
+    "iptv-org/iptv",
+    "apple/container",
+    "openai/plugins",
+    "calesthio/OpenMontage",
+    "DeusData/codebase-memory-mcp",
+    "harry0703/MoneyPrinterTurbo",
+    "phuryn/pm-skills",
+    "lfnovo/open-notebook",
+    "mvanhorn/last30days-skill"
   ]
 }
