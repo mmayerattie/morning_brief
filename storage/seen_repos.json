@@ -1,14 +1,19 @@
 {
   "repos": [
+    "harry0703/MoneyPrinterTurbo",
+    "t8y2/dbx",
+    "mvanhorn/last30days-skill",
     "Panniantong/Agent-Reach",
     "iptv-org/iptv",
     "apple/container",
-    "openai/plugins",
-    "calesthio/OpenMontage",
+    "ogulcancelik/herdr",
     "DeusData/codebase-memory-mcp",
-    "harry0703/MoneyPrinterTurbo",
     "phuryn/pm-skills",
     "lfnovo/open-notebook",
-    "mvanhorn/last30days-skill"
+    "calesthio/OpenMontage",
+    "Leonxlnx/taste-skill",
+    "asgeirtj/system_prompts_leaks",
+    "openai/plugins",
+    "stablyai/orca"
   ]
 }
