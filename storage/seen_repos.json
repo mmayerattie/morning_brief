@@ -1,19 +1,24 @@
 {
   "repos": [
-    "harry0703/MoneyPrinterTurbo",
-    "t8y2/dbx",
-    "mvanhorn/last30days-skill",
-    "Panniantong/Agent-Reach",
-    "iptv-org/iptv",
-    "apple/container",
-    "ogulcancelik/herdr",
-    "DeusData/codebase-memory-mcp",
     "phuryn/pm-skills",
-    "lfnovo/open-notebook",
+    "DeusData/codebase-memory-mcp",
+    "apple/container",
+    "NVIDIA/cosmos",
+    "roboflow/supervision",
+    "alibaba/zvec",
+    "t8y2/dbx",
+    "Panniantong/Agent-Reach",
+    "n0-computer/iroh",
+    "OpenCut-app/OpenCut",
     "calesthio/OpenMontage",
+    "lfnovo/open-notebook",
+    "iptv-org/iptv",
+    "mvanhorn/last30days-skill",
     "Leonxlnx/taste-skill",
-    "asgeirtj/system_prompts_leaks",
     "openai/plugins",
-    "stablyai/orca"
+    "ogulcancelik/herdr",
+    "harry0703/MoneyPrinterTurbo",
+    "stablyai/orca",
+    "asgeirtj/system_prompts_leaks"
   ]
 }
