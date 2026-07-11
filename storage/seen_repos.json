@@ -1,9 +1,14 @@
 {
   "repos": [
-    "DeusData/codebase-memory-mcp",
-    "NVIDIA/SkillSpector",
-    "asgeirtj/system_prompts_leaks",
     "Panniantong/Agent-Reach",
-    "calesthio/OpenMontage"
+    "simplex-chat/simplex-chat",
+    "asgeirtj/system_prompts_leaks",
+    "calesthio/OpenMontage",
+    "iptv-org/iptv",
+    "NVIDIA/SkillSpector",
+    "DeusData/codebase-memory-mcp",
+    "ogulcancelik/herdr",
+    "kunchenguid/no-mistakes",
+    "usestrix/strix"
   ]
 }
