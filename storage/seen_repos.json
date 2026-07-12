@@ -1,14 +1,19 @@
 {
   "repos": [
-    "Panniantong/Agent-Reach",
-    "simplex-chat/simplex-chat",
-    "asgeirtj/system_prompts_leaks",
     "calesthio/OpenMontage",
+    "alibaba/zvec",
     "iptv-org/iptv",
     "NVIDIA/SkillSpector",
-    "DeusData/codebase-memory-mcp",
-    "ogulcancelik/herdr",
     "kunchenguid/no-mistakes",
-    "usestrix/strix"
+    "asgeirtj/system_prompts_leaks",
+    "interviewstreet/hiring-agent",
+    "Zackriya-Solutions/meetily",
+    "stablyai/orca",
+    "simplex-chat/simplex-chat",
+    "DeusData/codebase-memory-mcp",
+    "usestrix/strix",
+    "ogulcancelik/herdr",
+    "alibaba/page-agent",
+    "Panniantong/Agent-Reach"
   ]
 }
