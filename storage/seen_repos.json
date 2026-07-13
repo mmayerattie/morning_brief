@@ -1,19 +1,24 @@
 {
   "repos": [
-    "calesthio/OpenMontage",
-    "alibaba/zvec",
-    "iptv-org/iptv",
+    "ogulcancelik/herdr",
+    "mauriceboe/TREK",
+    "ocornut/imgui",
+    "interviewstreet/hiring-agent",
+    "Panniantong/Agent-Reach",
+    "DeusData/codebase-memory-mcp",
     "NVIDIA/SkillSpector",
     "kunchenguid/no-mistakes",
-    "asgeirtj/system_prompts_leaks",
-    "interviewstreet/hiring-agent",
-    "Zackriya-Solutions/meetily",
-    "stablyai/orca",
     "simplex-chat/simplex-chat",
-    "DeusData/codebase-memory-mcp",
-    "usestrix/strix",
-    "ogulcancelik/herdr",
+    "alibaba/zvec",
+    "n0-computer/iroh",
+    "iptv-org/iptv",
+    "stablyai/orca",
+    "asgeirtj/system_prompts_leaks",
+    "gabime/spdlog",
+    "Zackriya-Solutions/meetily",
     "alibaba/page-agent",
-    "Panniantong/Agent-Reach"
+    "diegosouzapw/OmniRoute",
+    "calesthio/OpenMontage",
+    "usestrix/strix"
   ]
 }
