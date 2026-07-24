@@ -1,14 +1,19 @@
 {
   "repos": [
-    "usestrix/strix",
     "DeusData/codebase-memory-mcp",
-    "MadsLorentzen/ai-job-search",
-    "calesthio/OpenMontage",
-    "kunchenguid/no-mistakes",
-    "Zackriya-Solutions/meetily",
-    "stablyai/orca",
-    "ogulcancelik/herdr",
+    "diegosouzapw/OmniRoute",
     "catchorg/Catch2",
-    "diegosouzapw/OmniRoute"
+    "alibaba/page-agent",
+    "calesthio/OpenMontage",
+    "MadsLorentzen/ai-job-search",
+    "Zackriya-Solutions/meetily",
+    "asgeirtj/system_prompts_leaks",
+    "simplex-chat/simplex-chat",
+    "kunchenguid/no-mistakes",
+    "usestrix/strix",
+    "stablyai/orca",
+    "Nutlope/hallmark",
+    "ogulcancelik/herdr",
+    "Robbyant/lingbot-map"
   ]
 }
