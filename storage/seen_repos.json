@@ -1,19 +1,24 @@
 {
   "repos": [
-    "DeusData/codebase-memory-mcp",
-    "diegosouzapw/OmniRoute",
-    "catchorg/Catch2",
-    "alibaba/page-agent",
-    "calesthio/OpenMontage",
-    "MadsLorentzen/ai-job-search",
-    "Zackriya-Solutions/meetily",
-    "asgeirtj/system_prompts_leaks",
+    "wonderwhy-er/DesktopCommanderMCP",
     "simplex-chat/simplex-chat",
-    "kunchenguid/no-mistakes",
-    "usestrix/strix",
+    "xbtlin/ai-berkshire",
+    "catchorg/Catch2",
+    "asgeirtj/system_prompts_leaks",
+    "calesthio/OpenMontage",
     "stablyai/orca",
-    "Nutlope/hallmark",
     "ogulcancelik/herdr",
-    "Robbyant/lingbot-map"
+    "koala73/worldmonitor",
+    "iOfficeAI/OfficeCLI",
+    "alibaba/page-agent",
+    "kunchenguid/no-mistakes",
+    "diegosouzapw/OmniRoute",
+    "ocornut/imgui",
+    "Robbyant/lingbot-map",
+    "Nutlope/hallmark",
+    "DeusData/codebase-memory-mcp",
+    "Zackriya-Solutions/meetily",
+    "MadsLorentzen/ai-job-search",
+    "usestrix/strix"
   ]
 }
