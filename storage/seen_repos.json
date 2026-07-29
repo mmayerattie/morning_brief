@@ -1,33 +1,9 @@
 {
   "repos": [
-    "koala73/worldmonitor",
-    "catchorg/Catch2",
-    "kunchenguid/no-mistakes",
-    "hasaneyldrm/exercises-dataset",
-    "wonderwhy-er/DesktopCommanderMCP",
-    "DeusData/codebase-memory-mcp",
-    "stablyai/orca",
-    "OpenCut-app/OpenCut",
-    "ocornut/imgui",
-    "Zackriya-Solutions/meetily",
-    "emilkowalski/skills",
-    "HKUDS/Vibe-Trading",
-    "calesthio/OpenMontage",
-    "MadsLorentzen/ai-job-search",
-    "iOfficeAI/OfficeCLI",
-    "simplex-chat/simplex-chat",
-    "Robbyant/lingbot-map",
-    "usestrix/strix",
-    "every-app/open-seo",
-    "gabime/spdlog",
-    "asgeirtj/system_prompts_leaks",
-    "Nutlope/hallmark",
-    "alibaba/page-agent",
     "diegosouzapw/OmniRoute",
     "permissionlesstech/bitchat",
-    "xbtlin/ai-berkshire",
-    "openai/codex-plugin-cc",
-    "ogulcancelik/herdr",
-    "bradautomates/claude-video"
+    "Zackriya-Solutions/meetily",
+    "usestrix/strix",
+    "stablyai/orca"
   ]
 }
