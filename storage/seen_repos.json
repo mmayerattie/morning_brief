@@ -1,9 +1,14 @@
 {
   "repos": [
-    "diegosouzapw/OmniRoute",
+    "stablyai/orca",
     "permissionlesstech/bitchat",
+    "Nutlope/hallmark",
     "Zackriya-Solutions/meetily",
+    "diegosouzapw/OmniRoute",
     "usestrix/strix",
-    "stablyai/orca"
+    "asgeirtj/system_prompts_leaks",
+    "emilkowalski/skills",
+    "koala73/worldmonitor",
+    "iOfficeAI/OfficeCLI"
   ]
 }
