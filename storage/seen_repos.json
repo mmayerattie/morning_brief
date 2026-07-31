@@ -1,14 +1,19 @@
 {
   "repos": [
-    "stablyai/orca",
-    "permissionlesstech/bitchat",
-    "Nutlope/hallmark",
     "Zackriya-Solutions/meetily",
-    "diegosouzapw/OmniRoute",
+    "huggingface/speech-to-speech",
+    "Nutlope/hallmark",
+    "openai/codex-plugin-cc",
+    "permissionlesstech/bitchat",
     "usestrix/strix",
     "asgeirtj/system_prompts_leaks",
-    "emilkowalski/skills",
     "koala73/worldmonitor",
-    "iOfficeAI/OfficeCLI"
+    "stablyai/orca",
+    "emilkowalski/skills",
+    "iOfficeAI/OfficeCLI",
+    "bradautomates/claude-video",
+    "wonderwhy-er/DesktopCommanderMCP",
+    "HKUDS/Vibe-Trading",
+    "diegosouzapw/OmniRoute"
   ]
 }
