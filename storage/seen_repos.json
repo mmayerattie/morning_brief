@@ -1,19 +1,24 @@
 {
   "repos": [
-    "Zackriya-Solutions/meetily",
-    "huggingface/speech-to-speech",
-    "Nutlope/hallmark",
-    "openai/codex-plugin-cc",
-    "permissionlesstech/bitchat",
-    "usestrix/strix",
     "asgeirtj/system_prompts_leaks",
+    "OpenCut-app/OpenCut",
     "koala73/worldmonitor",
+    "huggingface/speech-to-speech",
+    "hasaneyldrm/exercises-dataset",
+    "diegosouzapw/OmniRoute",
+    "usestrix/strix",
     "stablyai/orca",
-    "emilkowalski/skills",
-    "iOfficeAI/OfficeCLI",
     "bradautomates/claude-video",
-    "wonderwhy-er/DesktopCommanderMCP",
+    "openai/codex-plugin-cc",
     "HKUDS/Vibe-Trading",
-    "diegosouzapw/OmniRoute"
+    "iOfficeAI/OfficeCLI",
+    "erincatto/box3d",
+    "Zackriya-Solutions/meetily",
+    "wonderwhy-er/DesktopCommanderMCP",
+    "Nutlope/hallmark",
+    "emilkowalski/skills",
+    "Shubhamsaboo/awesome-llm-apps",
+    "HKUDS/DeepTutor",
+    "permissionlesstech/bitchat"
   ]
 }
