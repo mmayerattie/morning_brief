@@ -1,9 +1,14 @@
 {
   "repos": [
+    "zhaoxuya520/reverse-skill",
+    "stablyai/orca",
     "diegosouzapw/OmniRoute",
-    "koala73/worldmonitor",
+    "pingdotgg/t3code",
+    "every-app/open-seo",
     "1jehuang/jcode",
     "Nutlope/hallmark",
-    "stablyai/orca"
+    "mattpocock/skills",
+    "HKUDS/DeepTutor",
+    "koala73/worldmonitor"
   ]
 }
