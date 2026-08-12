@@ -1,14 +1,19 @@
 {
   "repos": [
+    "HKUDS/DeepTutor",
+    "Nutlope/hallmark",
+    "kangarooking/cangjie-skill",
+    "mattpocock/skills",
     "zhaoxuya520/reverse-skill",
     "stablyai/orca",
+    "koala73/worldmonitor",
     "diegosouzapw/OmniRoute",
+    "TencentCloud/TencentDB-Agent-Memory",
+    "tt-a1i/archify",
+    "virgiliojr94/book-to-skill",
+    "earendil-works/pi",
     "pingdotgg/t3code",
     "every-app/open-seo",
-    "1jehuang/jcode",
-    "Nutlope/hallmark",
-    "mattpocock/skills",
-    "HKUDS/DeepTutor",
-    "koala73/worldmonitor"
+    "1jehuang/jcode"
   ]
 }
