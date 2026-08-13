@@ -1,19 +1,24 @@
 {
   "repos": [
-    "HKUDS/DeepTutor",
-    "Nutlope/hallmark",
-    "kangarooking/cangjie-skill",
-    "mattpocock/skills",
-    "zhaoxuya520/reverse-skill",
-    "stablyai/orca",
-    "koala73/worldmonitor",
-    "diegosouzapw/OmniRoute",
-    "TencentCloud/TencentDB-Agent-Memory",
-    "tt-a1i/archify",
+    "MoonshotAI/kimi-code",
     "virgiliojr94/book-to-skill",
-    "earendil-works/pi",
+    "koala73/worldmonitor",
+    "tt-a1i/archify",
+    "diegosouzapw/OmniRoute",
+    "agegr/pi-web",
+    "different-ai/openwork",
+    "stablyai/orca",
+    "Nutlope/hallmark",
+    "tirth8205/code-review-graph",
+    "zhaoxuya520/reverse-skill",
     "pingdotgg/t3code",
     "every-app/open-seo",
-    "1jehuang/jcode"
+    "earendil-works/pi",
+    "kangarooking/cangjie-skill",
+    "HKUDS/DeepTutor",
+    "mattpocock/skills",
+    "1jehuang/jcode",
+    "TencentCloud/TencentDB-Agent-Memory",
+    "iOfficeAI/OfficeCLI"
   ]
 }
