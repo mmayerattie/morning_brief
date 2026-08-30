@@ -1,9 +1,14 @@
 {
   "repos": [
     "freestylefly/awesome-gpt-image-2",
-    "zhaoxuya520/reverse-skill",
+    "cactus-compute/needle",
+    "volcengine/OpenViking",
+    "omacom/omarchy",
+    "TencentCloud/TencentDB-Agent-Memory",
     "anthropics/claude-plugins-community",
+    "firecrawl/pdf-inspector",
+    "zhaoxuya520/reverse-skill",
     "basecamp/omarchy",
-    "TencentCloud/TencentDB-Agent-Memory"
+    "AprilNEA/OpenLogi"
   ]
 }
