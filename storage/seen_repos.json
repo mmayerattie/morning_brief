@@ -1,14 +1,19 @@
 {
   "repos": [
-    "freestylefly/awesome-gpt-image-2",
-    "cactus-compute/needle",
-    "volcengine/OpenViking",
     "omacom/omarchy",
     "TencentCloud/TencentDB-Agent-Memory",
-    "anthropics/claude-plugins-community",
     "firecrawl/pdf-inspector",
-    "zhaoxuya520/reverse-skill",
+    "modular/modular",
+    "freestylefly/awesome-gpt-image-2",
+    "cactus-compute/needle",
+    "apache/maka",
+    "AprilNEA/OpenLogi",
     "basecamp/omarchy",
-    "AprilNEA/OpenLogi"
+    "tt-a1i/archify",
+    "volcengine/OpenViking",
+    "anthropics/claude-plugins-community",
+    "megadose/holehe",
+    "pingdotgg/t3code",
+    "zhaoxuya520/reverse-skill"
   ]
 }
