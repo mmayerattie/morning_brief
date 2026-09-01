@@ -1,19 +1,24 @@
 {
   "repos": [
-    "omacom/omarchy",
-    "TencentCloud/TencentDB-Agent-Memory",
-    "firecrawl/pdf-inspector",
-    "modular/modular",
     "freestylefly/awesome-gpt-image-2",
-    "cactus-compute/needle",
-    "apache/maka",
-    "AprilNEA/OpenLogi",
-    "basecamp/omarchy",
-    "tt-a1i/archify",
-    "volcengine/OpenViking",
     "anthropics/claude-plugins-community",
-    "megadose/holehe",
+    "cursor/plugins",
     "pingdotgg/t3code",
-    "zhaoxuya520/reverse-skill"
+    "firecrawl/pdf-inspector",
+    "AprilNEA/OpenLogi",
+    "donnemartin/system-design-primer",
+    "tt-a1i/archify",
+    "apache/maka",
+    "cactus-compute/needle",
+    "volcengine/OpenViking",
+    "basecamp/omarchy",
+    "megadose/holehe",
+    "TencentCloud/TencentDB-Agent-Memory",
+    "modular/modular",
+    "ayghri/i-have-adhd",
+    "zhaoxuya520/reverse-skill",
+    "unclebob/swarm-forge",
+    "huangruiteng/loopx",
+    "omacom/omarchy"
   ]
 }
