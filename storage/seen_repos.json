@@ -1,9 +1,14 @@
 {
   "repos": [
-    "tt-a1i/archify",
-    "anthropics/claude-plugins-community",
     "cathrynlavery/diagram-design",
     "omacom/omarchy",
-    "semantica-agi/semantica"
+    "anthropics/claude-plugins-community",
+    "freestylefly/awesome-gpt-image-2",
+    "AprilNEA/OpenLogi",
+    "volcengine/OpenViking",
+    "semantica-agi/semantica",
+    "xai-org/x-algorithm",
+    "cursor/plugins",
+    "tt-a1i/archify"
   ]
 }
