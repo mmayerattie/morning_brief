@@ -1,14 +1,19 @@
 {
   "repos": [
-    "cathrynlavery/diagram-design",
-    "omacom/omarchy",
-    "anthropics/claude-plugins-community",
-    "freestylefly/awesome-gpt-image-2",
-    "AprilNEA/OpenLogi",
-    "volcengine/OpenViking",
     "semantica-agi/semantica",
+    "vorssaint/vorssaint-utils",
+    "anthropics/claude-plugins-community",
+    "THU-MAIC/OpenMAIC",
     "xai-org/x-algorithm",
+    "volcengine/OpenViking",
+    "omacom/omarchy",
+    "modular/modular",
+    "cactus-compute/needle",
     "cursor/plugins",
-    "tt-a1i/archify"
+    "freestylefly/awesome-gpt-image-2",
+    "tt-a1i/archify",
+    "AprilNEA/OpenLogi",
+    "cathrynlavery/diagram-design",
+    "akitaonrails/ai-memory"
   ]
 }
