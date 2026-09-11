@@ -1,19 +1,24 @@
 {
   "repos": [
-    "semantica-agi/semantica",
-    "vorssaint/vorssaint-utils",
-    "anthropics/claude-plugins-community",
-    "THU-MAIC/OpenMAIC",
-    "xai-org/x-algorithm",
-    "volcengine/OpenViking",
-    "omacom/omarchy",
-    "modular/modular",
-    "cactus-compute/needle",
-    "cursor/plugins",
-    "freestylefly/awesome-gpt-image-2",
-    "tt-a1i/archify",
-    "AprilNEA/OpenLogi",
     "cathrynlavery/diagram-design",
-    "akitaonrails/ai-memory"
+    "akitaonrails/ai-memory",
+    "anthropics/claude-plugins-community",
+    "omacom/omarchy",
+    "freestylefly/awesome-gpt-image-2",
+    "youssofal/MTPLX",
+    "cursor/plugins",
+    "cactus-compute/needle",
+    "debpalash/VoiceStudio",
+    "THU-MAIC/OpenMAIC",
+    "AprilNEA/OpenLogi",
+    "vorssaint/vorssaint-utils",
+    "NVIDIA-NeMo/Switchyard",
+    "semantica-agi/semantica",
+    "tt-a1i/archify",
+    "modular/modular",
+    "volcengine/OpenViking",
+    "xai-org/x-algorithm",
+    "Lakr233/vphone-cli",
+    "public-apis/public-apis"
   ]
 }
