@@ -1,28 +1,9 @@
 {
   "repos": [
-    "apache/maka",
-    "anthropics/claude-plugins-community",
-    "THU-MAIC/OpenMAIC",
-    "volcengine/OpenViking",
     "omacom/omarchy",
-    "cathrynlavery/diagram-design",
+    "anthropics/claude-plugins-community",
     "tt-a1i/archify",
-    "AlexsJones/llmfit",
-    "NVIDIA-NeMo/Switchyard",
-    "xai-org/x-algorithm",
-    "cactus-compute/needle",
-    "youssofal/MTPLX",
-    "akitaonrails/ai-memory",
-    "freestylefly/awesome-gpt-image-2",
-    "public-apis/public-apis",
-    "cordiverse/cordis",
-    "cursor/plugins",
-    "vorssaint/vorssaint-utils",
-    "semantica-agi/semantica",
-    "ayghri/i-have-adhd",
     "AprilNEA/OpenLogi",
-    "debpalash/VoiceStudio",
-    "modular/modular",
-    "Lakr233/vphone-cli"
+    "cursor/plugins"
   ]
 }
