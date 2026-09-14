@@ -1,9 +1,14 @@
 {
   "repos": [
-    "omacom/omarchy",
     "anthropics/claude-plugins-community",
-    "tt-a1i/archify",
+    "cursor/plugins",
+    "volcengine/OpenViking",
+    "freestylefly/awesome-gpt-image-2",
+    "cathrynlavery/diagram-design",
+    "ayghri/i-have-adhd",
+    "THU-MAIC/OpenMAIC",
     "AprilNEA/OpenLogi",
-    "cursor/plugins"
+    "tt-a1i/archify",
+    "omacom/omarchy"
   ]
 }
