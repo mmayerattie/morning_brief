@@ -1,14 +1,19 @@
 {
   "repos": [
-    "anthropics/claude-plugins-community",
-    "cursor/plugins",
-    "volcengine/OpenViking",
+    "debpalash/VoiceStudio",
+    "modular/modular",
+    "omacom/omarchy",
     "freestylefly/awesome-gpt-image-2",
-    "cathrynlavery/diagram-design",
+    "anthropics/claude-plugins-community",
+    "vorssaint/vorssaint-utils",
+    "akitaonrails/ai-memory",
+    "cursor/plugins",
     "ayghri/i-have-adhd",
-    "THU-MAIC/OpenMAIC",
-    "AprilNEA/OpenLogi",
+    "volcengine/OpenViking",
     "tt-a1i/archify",
-    "omacom/omarchy"
+    "Lakr233/vphone-cli",
+    "cathrynlavery/diagram-design",
+    "THU-MAIC/OpenMAIC",
+    "AprilNEA/OpenLogi"
   ]
 }
