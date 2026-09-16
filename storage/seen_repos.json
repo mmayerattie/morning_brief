@@ -1,19 +1,21 @@
 {
   "repos": [
     "debpalash/VoiceStudio",
-    "modular/modular",
-    "omacom/omarchy",
-    "freestylefly/awesome-gpt-image-2",
     "anthropics/claude-plugins-community",
-    "vorssaint/vorssaint-utils",
+    "cathrynlavery/diagram-design",
+    "freestylefly/awesome-gpt-image-2",
     "akitaonrails/ai-memory",
+    "modular/modular",
     "cursor/plugins",
     "ayghri/i-have-adhd",
-    "volcengine/OpenViking",
-    "tt-a1i/archify",
+    "omacom/omarchy",
     "Lakr233/vphone-cli",
-    "cathrynlavery/diagram-design",
+    "google-research/timesfm",
+    "vorssaint/vorssaint-utils",
+    "AprilNEA/OpenLogi",
+    "apache/maka",
+    "volcengine/OpenViking",
     "THU-MAIC/OpenMAIC",
-    "AprilNEA/OpenLogi"
+    "tt-a1i/archify"
   ]
 }
