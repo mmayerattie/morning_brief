@@ -1,9 +1,14 @@
 {
   "repos": [
+    "debpalash/VoiceStudio",
     "anthropics/claude-plugins-community",
-    "tt-a1i/archify",
+    "cloudflare/security-audit-skill",
     "freestylefly/awesome-gpt-image-2",
-    "THU-MAIC/OpenMAIC",
-    "omacom/omarchy"
+    "omacom/omarchy",
+    "FlashML-org/FreeToken",
+    "cursor/plugins",
+    "tt-a1i/archify",
+    "ayghri/i-have-adhd",
+    "THU-MAIC/OpenMAIC"
   ]
 }
