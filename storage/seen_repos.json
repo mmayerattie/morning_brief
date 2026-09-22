@@ -1,14 +1,19 @@
 {
   "repos": [
-    "debpalash/VoiceStudio",
-    "anthropics/claude-plugins-community",
-    "cloudflare/security-audit-skill",
-    "freestylefly/awesome-gpt-image-2",
-    "omacom/omarchy",
     "FlashML-org/FreeToken",
-    "cursor/plugins",
-    "tt-a1i/archify",
+    "THU-MAIC/OpenMAIC",
     "ayghri/i-have-adhd",
-    "THU-MAIC/OpenMAIC"
+    "vorssaint/vorssaint-utils",
+    "tech-leads-club/agent-skills",
+    "anthropics/claude-plugins-community",
+    "debpalash/VoiceStudio",
+    "tt-a1i/archify",
+    "freestylefly/awesome-gpt-image-2",
+    "alibaba/open-code-review",
+    "cloudflare/security-audit-skill",
+    "cursor/plugins",
+    "Lakr233/vphone-cli",
+    "omacom/omarchy",
+    "magnitudedev/magnitude"
   ]
 }
