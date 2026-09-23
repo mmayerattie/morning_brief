@@ -1,19 +1,24 @@
 {
   "repos": [
-    "FlashML-org/FreeToken",
-    "THU-MAIC/OpenMAIC",
-    "ayghri/i-have-adhd",
-    "vorssaint/vorssaint-utils",
-    "tech-leads-club/agent-skills",
-    "anthropics/claude-plugins-community",
-    "debpalash/VoiceStudio",
-    "tt-a1i/archify",
-    "freestylefly/awesome-gpt-image-2",
-    "alibaba/open-code-review",
-    "cloudflare/security-audit-skill",
     "cursor/plugins",
-    "Lakr233/vphone-cli",
+    "freestylefly/awesome-gpt-image-2",
+    "tech-leads-club/agent-skills",
+    "google-research/timesfm",
+    "Tencent/BrowserSkill",
+    "vorssaint/vorssaint-utils",
+    "magnitudedev/magnitude",
+    "every-app/open-seo",
+    "THU-MAIC/OpenMAIC",
+    "FlashML-org/FreeToken",
+    "ayghri/i-have-adhd",
+    "anthropics/claude-plugins-community",
     "omacom/omarchy",
-    "magnitudedev/magnitude"
+    "Tencent/WeKnora",
+    "alibaba/open-code-review",
+    "jingyaogong/minimind",
+    "debpalash/VoiceStudio",
+    "Lakr233/vphone-cli",
+    "tt-a1i/archify",
+    "cloudflare/security-audit-skill"
   ]
 }
