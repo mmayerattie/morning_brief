@@ -1,33 +1,9 @@
 {
   "repos": [
-    "THU-MAIC/OpenMAIC",
-    "Tencent/WeKnora",
-    "every-app/open-seo",
-    "K-Dense-AI/scientific-agent-skills",
-    "alibaba/open-code-review",
-    "Lakr233/vphone-cli",
-    "DietrichGebert/ponytail",
-    "abue-ammar/tinycast",
-    "superdesigndev/treg",
-    "Tencent/BrowserSkill",
-    "ayghri/i-have-adhd",
-    "debpalash/VoiceStudio",
-    "ever-co/ever-gauzy",
-    "vorssaint/vorssaint-utils",
     "cloudflare/security-audit-skill",
-    "melgarafael/DeskcommCRM",
-    "zedeus/nitter",
-    "freestylefly/awesome-gpt-image-2",
+    "bilawalsidhu/gods-eye-view",
     "tt-a1i/archify",
-    "tech-leads-club/agent-skills",
-    "FlashML-org/FreeToken",
-    "google-research/timesfm",
-    "anthropics/claude-plugins-community",
-    "jingyaogong/minimind",
-    "cursor/plugins",
-    "anthropics/financial-services",
-    "omacom/omarchy",
-    "magnitudedev/magnitude",
-    "bilawalsidhu/gods-eye-view"
+    "alibaba/open-code-review",
+    "THU-MAIC/OpenMAIC"
   ]
 }
