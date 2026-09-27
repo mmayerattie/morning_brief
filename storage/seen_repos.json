@@ -1,9 +1,14 @@
 {
   "repos": [
-    "cloudflare/security-audit-skill",
+    "superdesigndev/treg",
+    "tech-leads-club/agent-skills",
+    "ayghri/i-have-adhd",
     "bilawalsidhu/gods-eye-view",
+    "magnitudedev/magnitude",
     "tt-a1i/archify",
+    "debpalash/VoiceStudio",
+    "THU-MAIC/OpenMAIC",
     "alibaba/open-code-review",
-    "THU-MAIC/OpenMAIC"
+    "cloudflare/security-audit-skill"
   ]
 }
