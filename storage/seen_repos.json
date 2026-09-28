@@ -1,14 +1,19 @@
 {
   "repos": [
-    "superdesigndev/treg",
-    "tech-leads-club/agent-skills",
-    "ayghri/i-have-adhd",
+    "Tencent/WeKnora",
+    "miuuyy/codex-chatgpt-web",
     "bilawalsidhu/gods-eye-view",
     "magnitudedev/magnitude",
-    "tt-a1i/archify",
-    "debpalash/VoiceStudio",
+    "cloudflare/security-audit-skill",
+    "anthropics/financial-services",
+    "tech-leads-club/agent-skills",
+    "cursor/plugins",
     "THU-MAIC/OpenMAIC",
+    "superdesigndev/treg",
+    "debpalash/VoiceStudio",
+    "pollen-robotics/microduck_rl",
     "alibaba/open-code-review",
-    "cloudflare/security-audit-skill"
+    "ayghri/i-have-adhd",
+    "tt-a1i/archify"
   ]
 }
