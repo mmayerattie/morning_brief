@@ -1,19 +1,24 @@
 {
   "repos": [
-    "Tencent/WeKnora",
-    "miuuyy/codex-chatgpt-web",
-    "bilawalsidhu/gods-eye-view",
-    "magnitudedev/magnitude",
-    "cloudflare/security-audit-skill",
-    "anthropics/financial-services",
-    "tech-leads-club/agent-skills",
-    "cursor/plugins",
-    "THU-MAIC/OpenMAIC",
-    "superdesigndev/treg",
-    "debpalash/VoiceStudio",
     "pollen-robotics/microduck_rl",
+    "cloudflare/security-audit-skill",
+    "tech-leads-club/agent-skills",
+    "Tencent/WeKnora",
+    "affaan-m/ECC",
+    "bilawalsidhu/gods-eye-view",
+    "THU-MAIC/OpenMAIC",
+    "miuuyy/codex-chatgpt-web",
+    "magnitudedev/magnitude",
+    "debpalash/VoiceStudio",
+    "paperclipai/paperclip",
+    "DietrichGebert/ponytail",
+    "cursor/plugins",
+    "mksglu/context-mode",
+    "fmtlib/fmt",
     "alibaba/open-code-review",
-    "ayghri/i-have-adhd",
-    "tt-a1i/archify"
+    "tt-a1i/archify",
+    "anthropics/financial-services",
+    "superdesigndev/treg",
+    "ayghri/i-have-adhd"
   ]
 }
