@@ -1,35 +1,9 @@
 {
   "repos": [
-    "paperclipai/paperclip",
-    "longbridge/gpui-kit",
-    "cloudflare/security-audit-skill",
-    "affaan-m/ECC",
     "bilawalsidhu/gods-eye-view",
-    "ayghri/i-have-adhd",
-    "trycua/cua",
-    "magnitudedev/magnitude",
     "alibaba/open-code-review",
-    "mksglu/context-mode",
-    "max-sixty/worktrunk",
-    "cursor/plugins",
-    "tech-leads-club/agent-skills",
-    "heygen-com/hyperframes",
-    "NVIDIA/SkillSpector",
-    "vectorize-io/hindsight",
-    "TencentCloud/Octop",
-    "tashfeenahmed/freellmapi",
-    "anthropics/claude-code",
-    "miuuyy/codex-chatgpt-web",
-    "tt-a1i/archify",
-    "pollen-robotics/microduck_rl",
-    "superdesigndev/treg",
-    "DietrichGebert/ponytail",
-    "THU-MAIC/OpenMAIC",
-    "jingyaogong/minimind",
-    "anthropics/financial-services",
-    "Tencent/WeKnora",
-    "fmtlib/fmt",
-    "debpalash/VoiceStudio",
-    "anthropics/knowledge-work-plugins"
+    "ayghri/i-have-adhd",
+    "affaan-m/ECC",
+    "Tencent/WeKnora"
   ]
 }
