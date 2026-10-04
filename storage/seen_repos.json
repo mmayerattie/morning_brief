@@ -1,9 +1,14 @@
 {
   "repos": [
-    "bilawalsidhu/gods-eye-view",
-    "alibaba/open-code-review",
-    "ayghri/i-have-adhd",
     "affaan-m/ECC",
-    "Tencent/WeKnora"
+    "Tencent/WeKnora",
+    "vectorize-io/hindsight",
+    "bilawalsidhu/gods-eye-view",
+    "ayghri/i-have-adhd",
+    "tt-a1i/archify",
+    "paperclipai/paperclip",
+    "anthropics/financial-services",
+    "mksglu/context-mode",
+    "alibaba/open-code-review"
   ]
 }
