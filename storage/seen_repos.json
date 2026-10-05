@@ -1,14 +1,19 @@
 {
   "repos": [
-    "affaan-m/ECC",
-    "Tencent/WeKnora",
+    "ayghri/i-have-adhd",
+    "mksglu/context-mode",
+    "agent-substrate/substrate",
     "vectorize-io/hindsight",
     "bilawalsidhu/gods-eye-view",
-    "ayghri/i-have-adhd",
+    "affaan-m/ECC",
     "tt-a1i/archify",
     "paperclipai/paperclip",
+    "alibaba/open-code-review",
     "anthropics/financial-services",
-    "mksglu/context-mode",
-    "alibaba/open-code-review"
+    "TencentCloud/Octop",
+    "Tencent/WeKnora",
+    "heygen-com/hyperframes",
+    "NVIDIA/OpenShell",
+    "anthropics/claude-code"
   ]
 }
