@@ -1,19 +1,24 @@
 {
   "repos": [
     "ayghri/i-have-adhd",
-    "mksglu/context-mode",
-    "agent-substrate/substrate",
-    "vectorize-io/hindsight",
     "bilawalsidhu/gods-eye-view",
-    "affaan-m/ECC",
-    "tt-a1i/archify",
-    "paperclipai/paperclip",
-    "alibaba/open-code-review",
+    "DietrichGebert/ponytail",
+    "anthropics/claude-code",
     "anthropics/financial-services",
-    "TencentCloud/Octop",
-    "Tencent/WeKnora",
+    "mksglu/context-mode",
     "heygen-com/hyperframes",
+    "tt-a1i/archify",
+    "alibaba/open-code-review",
+    "TencentCloud/Octop",
+    "anthropics/knowledge-work-plugins",
+    "paperclipai/paperclip",
+    "trycua/cua",
+    "cursor/plugins",
+    "agent-substrate/substrate",
+    "tashfeenahmed/freellmapi",
     "NVIDIA/OpenShell",
-    "anthropics/claude-code"
+    "Tencent/WeKnora",
+    "vectorize-io/hindsight",
+    "affaan-m/ECC"
   ]
 }
