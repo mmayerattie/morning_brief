@@ -1,9 +1,14 @@
 {
   "repos": [
-    "affaan-m/ECC",
+    "debpalash/VoiceStudio",
+    "vectorize-io/hindsight",
+    "Tencent/WeKnora",
     "anthropics/financial-services",
+    "anthropics/knowledge-work-plugins",
+    "TencentCloud/Octop",
+    "anthropics/claude-code",
+    "affaan-m/ECC",
     "paperclipai/paperclip",
-    "alibaba/open-code-review",
-    "debpalash/VoiceStudio"
+    "alibaba/open-code-review"
   ]
 }
