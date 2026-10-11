@@ -1,14 +1,19 @@
 {
   "repos": [
-    "debpalash/VoiceStudio",
-    "vectorize-io/hindsight",
-    "Tencent/WeKnora",
-    "anthropics/financial-services",
-    "anthropics/knowledge-work-plugins",
-    "TencentCloud/Octop",
-    "anthropics/claude-code",
-    "affaan-m/ECC",
+    "NVIDIA/OpenShell",
     "paperclipai/paperclip",
-    "alibaba/open-code-review"
+    "affaan-m/ECC",
+    "Tencent/WeKnora",
+    "TencentCloud/Octop",
+    "agent-substrate/substrate",
+    "heygen-com/hyperframes",
+    "anthropics/knowledge-work-plugins",
+    "JustVugg/colibri",
+    "trycua/cua",
+    "alibaba/open-code-review",
+    "anthropics/financial-services",
+    "anthropics/claude-code",
+    "debpalash/VoiceStudio",
+    "vectorize-io/hindsight"
   ]
 }
