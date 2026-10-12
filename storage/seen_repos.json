@@ -1,19 +1,24 @@
 {
   "repos": [
-    "NVIDIA/OpenShell",
-    "paperclipai/paperclip",
-    "affaan-m/ECC",
-    "Tencent/WeKnora",
-    "TencentCloud/Octop",
-    "agent-substrate/substrate",
-    "heygen-com/hyperframes",
-    "anthropics/knowledge-work-plugins",
-    "JustVugg/colibri",
-    "trycua/cua",
     "alibaba/open-code-review",
+    "cursor/plugins",
+    "heygen-com/hyperframes",
+    "addyosmani/agent-skills",
+    "tashfeenahmed/freellmapi",
     "anthropics/financial-services",
-    "anthropics/claude-code",
+    "vectorize-io/hindsight",
+    "agent-substrate/substrate",
+    "paperclipai/paperclip",
+    "Tencent/WeKnora",
+    "anthropics/knowledge-work-plugins",
     "debpalash/VoiceStudio",
-    "vectorize-io/hindsight"
+    "NVIDIA/OpenShell",
+    "affaan-m/ECC",
+    "anthropics/claude-code",
+    "JustVugg/colibri",
+    "TencentCloud/Octop",
+    "mksglu/context-mode",
+    "NationalSecurityAgency/ghidra",
+    "trycua/cua"
   ]
 }
