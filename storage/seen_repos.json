@@ -1,27 +1,9 @@
 {
   "repos": [
-    "NationalSecurityAgency/ghidra",
-    "debpalash/VoiceStudio",
-    "NVIDIA/OpenShell",
-    "anthropics/claude-code",
-    "cursor/plugins",
-    "trycua/cua",
-    "heygen-com/hyperframes",
-    "mksglu/context-mode",
-    "anthropics/financial-services",
-    "Gaurav-Gosain/tuios",
-    "JustVugg/colibri",
-    "TencentCloud/Octop",
-    "paperclipai/paperclip",
-    "addyosmani/agent-skills",
-    "affaan-m/ECC",
-    "longbridge/gpui-kit",
-    "rohitg00/ai-engineering-from-scratch",
-    "Tencent/WeKnora",
     "vectorize-io/hindsight",
+    "paperclipai/paperclip",
+    "debpalash/VoiceStudio",
     "alibaba/open-code-review",
-    "agent-substrate/substrate",
-    "anthropics/knowledge-work-plugins",
-    "tashfeenahmed/freellmapi"
+    "anthropics/financial-services"
   ]
 }
