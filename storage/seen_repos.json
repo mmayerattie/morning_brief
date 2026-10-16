@@ -1,9 +1,14 @@
 {
   "repos": [
-    "vectorize-io/hindsight",
-    "paperclipai/paperclip",
+    "NVIDIA/OpenShell",
+    "affaan-m/ECC",
+    "agent-substrate/substrate",
     "debpalash/VoiceStudio",
     "alibaba/open-code-review",
-    "anthropics/financial-services"
+    "paperclipai/paperclip",
+    "anthropics/financial-services",
+    "vectorize-io/hindsight",
+    "anthropics/knowledge-work-plugins",
+    "heygen-com/hyperframes"
   ]
 }
