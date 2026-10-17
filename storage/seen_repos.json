@@ -1,14 +1,19 @@
 {
   "repos": [
-    "NVIDIA/OpenShell",
+    "heygen-com/hyperframes",
     "affaan-m/ECC",
     "agent-substrate/substrate",
-    "debpalash/VoiceStudio",
-    "alibaba/open-code-review",
-    "paperclipai/paperclip",
-    "anthropics/financial-services",
-    "vectorize-io/hindsight",
     "anthropics/knowledge-work-plugins",
-    "heygen-com/hyperframes"
+    "mksglu/context-mode",
+    "trycua/cua",
+    "cloudflare/security-audit-skill",
+    "NVIDIA/OpenShell",
+    "paperclipai/paperclip",
+    "alibaba/open-code-review",
+    "vectorize-io/hindsight",
+    "debpalash/VoiceStudio",
+    "TencentCloud/Octop",
+    "anthropics/financial-services",
+    "tashfeenahmed/freellmapi"
   ]
 }
