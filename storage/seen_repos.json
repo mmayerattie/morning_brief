@@ -1,19 +1,24 @@
 {
   "repos": [
     "heygen-com/hyperframes",
-    "affaan-m/ECC",
-    "agent-substrate/substrate",
+    "addyosmani/agent-skills",
+    "cursor/plugins",
+    "rohitg00/ai-engineering-from-scratch",
+    "tashfeenahmed/freellmapi",
     "anthropics/knowledge-work-plugins",
-    "mksglu/context-mode",
-    "trycua/cua",
-    "cloudflare/security-audit-skill",
-    "NVIDIA/OpenShell",
-    "paperclipai/paperclip",
     "alibaba/open-code-review",
+    "NVIDIA/OpenShell",
+    "longbridge/gpui-kit",
+    "affaan-m/ECC",
     "vectorize-io/hindsight",
-    "debpalash/VoiceStudio",
+    "mksglu/context-mode",
+    "paperclipai/paperclip",
+    "agent-substrate/substrate",
+    "NationalSecurityAgency/ghidra",
     "TencentCloud/Octop",
     "anthropics/financial-services",
-    "tashfeenahmed/freellmapi"
+    "trycua/cua",
+    "debpalash/VoiceStudio",
+    "cloudflare/security-audit-skill"
   ]
 }
