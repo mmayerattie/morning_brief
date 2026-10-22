@@ -1,9 +1,14 @@
 {
   "repos": [
+    "anthropics/financial-services",
+    "anthropics/knowledge-work-plugins",
+    "mksglu/context-mode",
     "vectorize-io/hindsight",
-    "heygen-com/hyperframes",
     "debpalash/VoiceStudio",
+    "cloudflare/security-audit-skill",
+    "heygen-com/hyperframes",
     "paperclipai/paperclip",
-    "anthropics/financial-services"
+    "NationalSecurityAgency/ghidra",
+    "NVIDIA/OpenShell"
   ]
 }
