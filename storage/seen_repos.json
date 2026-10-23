@@ -1,14 +1,19 @@
 {
   "repos": [
-    "anthropics/financial-services",
-    "anthropics/knowledge-work-plugins",
     "mksglu/context-mode",
-    "vectorize-io/hindsight",
+    "paperclipai/paperclip",
     "debpalash/VoiceStudio",
     "cloudflare/security-audit-skill",
-    "heygen-com/hyperframes",
-    "paperclipai/paperclip",
+    "anthropics/claude-plugins-official",
+    "tashfeenahmed/freellmapi",
+    "anthropics/financial-services",
     "NationalSecurityAgency/ghidra",
-    "NVIDIA/OpenShell"
+    "NVIDIA/OpenShell",
+    "cursor/plugins",
+    "earthtojake/text-to-cad",
+    "anthropics/knowledge-work-plugins",
+    "vectorize-io/hindsight",
+    "heygen-com/hyperframes",
+    "rohitg00/ai-engineering-from-scratch"
   ]
 }
