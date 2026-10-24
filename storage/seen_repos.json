@@ -1,19 +1,24 @@
 {
   "repos": [
-    "mksglu/context-mode",
-    "paperclipai/paperclip",
+    "anthropics/knowledge-work-plugins",
+    "TencentCloud/Octop",
+    "rohitg00/ai-engineering-from-scratch",
+    "affaan-m/ECC",
     "debpalash/VoiceStudio",
-    "cloudflare/security-audit-skill",
-    "anthropics/claude-plugins-official",
-    "tashfeenahmed/freellmapi",
     "anthropics/financial-services",
-    "NationalSecurityAgency/ghidra",
     "NVIDIA/OpenShell",
     "cursor/plugins",
-    "earthtojake/text-to-cad",
-    "anthropics/knowledge-work-plugins",
-    "vectorize-io/hindsight",
+    "tashfeenahmed/freellmapi",
     "heygen-com/hyperframes",
-    "rohitg00/ai-engineering-from-scratch"
+    "pbakaus/impeccable",
+    "pingdotgg/t3code",
+    "NationalSecurityAgency/ghidra",
+    "mksglu/context-mode",
+    "VectifyAI/PageIndex",
+    "paperclipai/paperclip",
+    "anthropics/claude-plugins-official",
+    "cloudflare/security-audit-skill",
+    "vectorize-io/hindsight",
+    "earthtojake/text-to-cad"
   ]
 }
