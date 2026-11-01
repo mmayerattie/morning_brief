@@ -1,9 +1,14 @@
 {
   "repos": [
-    "heygen-com/hyperframes",
-    "debpalash/VoiceStudio",
+    "pingdotgg/t3code",
     "anthropics/knowledge-work-plugins",
-    "cloudflare/security-audit-skill",
-    "Nutlope/hallmark"
+    "earthtojake/text-to-cad",
+    "debpalash/VoiceStudio",
+    "NationalSecurityAgency/ghidra",
+    "heygen-com/hyperframes",
+    "thedotmack/claude-mem",
+    "pbakaus/impeccable",
+    "Nutlope/hallmark",
+    "cloudflare/security-audit-skill"
   ]
 }
