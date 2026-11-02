@@ -1,14 +1,19 @@
 {
   "repos": [
-    "pingdotgg/t3code",
-    "anthropics/knowledge-work-plugins",
     "earthtojake/text-to-cad",
-    "debpalash/VoiceStudio",
-    "NationalSecurityAgency/ghidra",
-    "heygen-com/hyperframes",
-    "thedotmack/claude-mem",
+    "morluto/rea",
     "pbakaus/impeccable",
+    "NationalSecurityAgency/ghidra",
+    "thedotmack/claude-mem",
+    "heygen-com/hyperframes",
+    "cloudflare/security-audit-skill",
+    "tester-army/e2e",
+    "ranxianglei/billion-context",
+    "debpalash/VoiceStudio",
+    "michael-denyer/pstack-claude",
+    "anthropics/claude-plugins-official",
     "Nutlope/hallmark",
-    "cloudflare/security-audit-skill"
+    "pingdotgg/t3code",
+    "anthropics/knowledge-work-plugins"
   ]
 }
