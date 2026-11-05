@@ -1,22 +1,23 @@
 {
   "repos": [
-    "anthropics/knowledge-work-plugins",
-    "tashfeenahmed/freellmapi",
-    "pbakaus/impeccable",
-    "cloudflare/security-audit-skill",
-    "morluto/rea",
-    "tester-army/e2e",
-    "mksglu/context-mode",
-    "pingdotgg/t3code",
-    "michael-denyer/pstack-claude",
-    "anthropics/claude-plugins-official",
     "heygen-com/hyperframes",
-    "NationalSecurityAgency/ghidra",
-    "ranxianglei/billion-context",
-    "debpalash/VoiceStudio",
-    "thedotmack/claude-mem",
     "boykopovar/AnyPS5",
+    "thedotmack/claude-mem",
+    "mksglu/context-mode",
+    "HKUDS/DeepTutor",
+    "pbakaus/impeccable",
+    "michael-denyer/pstack-claude",
+    "cloudflare/security-audit-skill",
     "earthtojake/text-to-cad",
-    "Nutlope/hallmark"
+    "debpalash/VoiceStudio",
+    "NationalSecurityAgency/ghidra",
+    "tashfeenahmed/freellmapi",
+    "Nutlope/hallmark",
+    "morluto/rea",
+    "anthropics/claude-plugins-official",
+    "tester-army/e2e",
+    "ranxianglei/billion-context",
+    "pingdotgg/t3code",
+    "anthropics/knowledge-work-plugins"
   ]
 }
