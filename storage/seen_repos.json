@@ -1,24 +1,9 @@
 {
   "repos": [
-    "heygen-com/hyperframes",
-    "anthropics/claude-plugins-official",
-    "HKUDS/DeepTutor",
-    "boykopovar/AnyPS5",
-    "debpalash/VoiceStudio",
-    "earthtojake/text-to-cad",
-    "michael-denyer/pstack-claude",
-    "ranxianglei/billion-context",
-    "mksglu/context-mode",
-    "tashfeenahmed/freellmapi",
-    "NationalSecurityAgency/ghidra",
-    "anthropics/knowledge-work-plugins",
-    "cloudflare/security-audit-skill",
-    "tester-army/e2e",
-    "Nutlope/hallmark",
     "storytold/artcraft",
     "morluto/rea",
-    "pbakaus/impeccable",
-    "thedotmack/claude-mem",
-    "pingdotgg/t3code"
+    "boykopovar/AnyPS5",
+    "cloudflare/security-audit-skill",
+    "Nutlope/hallmark"
   ]
 }
