@@ -1,9 +1,14 @@
 {
   "repos": [
-    "storytold/artcraft",
-    "morluto/rea",
-    "boykopovar/AnyPS5",
+    "debpalash/VoiceStudio",
+    "pbakaus/impeccable",
     "cloudflare/security-audit-skill",
-    "Nutlope/hallmark"
+    "storytold/artcraft",
+    "Nutlope/hallmark",
+    "pingdotgg/t3code",
+    "heygen-com/hyperframes",
+    "thedotmack/claude-mem",
+    "morluto/rea",
+    "boykopovar/AnyPS5"
   ]
 }
