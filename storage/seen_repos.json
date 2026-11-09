@@ -1,14 +1,17 @@
 {
   "repos": [
-    "debpalash/VoiceStudio",
-    "pbakaus/impeccable",
-    "cloudflare/security-audit-skill",
     "storytold/artcraft",
-    "Nutlope/hallmark",
-    "pingdotgg/t3code",
-    "heygen-com/hyperframes",
+    "HKUDS/DeepTutor",
     "thedotmack/claude-mem",
+    "pbakaus/impeccable",
+    "debpalash/VoiceStudio",
+    "boykopovar/AnyPS5",
+    "heygen-com/hyperframes",
     "morluto/rea",
-    "boykopovar/AnyPS5"
+    "NationalSecurityAgency/ghidra",
+    "cloudflare/security-audit-skill",
+    "anthropics/claude-plugins-official",
+    "Nutlope/hallmark",
+    "pingdotgg/t3code"
   ]
 }
