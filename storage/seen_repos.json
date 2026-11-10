@@ -1,17 +1,20 @@
 {
   "repos": [
-    "storytold/artcraft",
-    "HKUDS/DeepTutor",
-    "thedotmack/claude-mem",
-    "pbakaus/impeccable",
-    "debpalash/VoiceStudio",
-    "boykopovar/AnyPS5",
-    "heygen-com/hyperframes",
+    "pingdotgg/t3code",
     "morluto/rea",
-    "NationalSecurityAgency/ghidra",
-    "cloudflare/security-audit-skill",
     "anthropics/claude-plugins-official",
     "Nutlope/hallmark",
-    "pingdotgg/t3code"
+    "ranxianglei/billion-context",
+    "heygen-com/hyperframes",
+    "debpalash/VoiceStudio",
+    "thedotmack/claude-mem",
+    "NationalSecurityAgency/ghidra",
+    "anthropics/knowledge-work-plugins",
+    "storytold/artcraft",
+    "tashfeenahmed/freellmapi",
+    "boykopovar/AnyPS5",
+    "pbakaus/impeccable",
+    "cloudflare/security-audit-skill",
+    "HKUDS/DeepTutor"
   ]
 }
