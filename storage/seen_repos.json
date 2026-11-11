@@ -1,20 +1,24 @@
 {
   "repos": [
+    "Leonxlnx/taste-skill",
+    "pbakaus/impeccable",
+    "HKUDS/DeepTutor",
     "pingdotgg/t3code",
-    "morluto/rea",
-    "anthropics/claude-plugins-official",
+    "cloudflare/security-audit-skill",
+    "storytold/artcraft",
     "Nutlope/hallmark",
-    "ranxianglei/billion-context",
-    "heygen-com/hyperframes",
+    "anthropics/skills",
+    "AgriciDaniel/claude-seo",
     "debpalash/VoiceStudio",
     "thedotmack/claude-mem",
-    "NationalSecurityAgency/ghidra",
     "anthropics/knowledge-work-plugins",
-    "storytold/artcraft",
-    "tashfeenahmed/freellmapi",
+    "sherlock-project/sherlock",
     "boykopovar/AnyPS5",
-    "pbakaus/impeccable",
-    "cloudflare/security-audit-skill",
-    "HKUDS/DeepTutor"
+    "ranxianglei/billion-context",
+    "NationalSecurityAgency/ghidra",
+    "anthropics/claude-plugins-official",
+    "heygen-com/hyperframes",
+    "morluto/rea",
+    "tashfeenahmed/freellmapi"
   ]
 }
