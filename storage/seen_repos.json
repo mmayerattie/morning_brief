@@ -1,9 +1,14 @@
 {
   "repos": [
-    "morluto/rea",
+    "anthropics/skills",
     "thedotmack/claude-mem",
     "Nutlope/hallmark",
     "cloudflare/security-audit-skill",
-    "pingdotgg/t3code"
+    "pingdotgg/t3code",
+    "HKUDS/DeepTutor",
+    "heygen-com/hyperframes",
+    "AgriciDaniel/claude-seo",
+    "pbakaus/impeccable",
+    "morluto/rea"
   ]
 }
