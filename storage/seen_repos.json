@@ -1,14 +1,19 @@
 {
   "repos": [
-    "anthropics/skills",
-    "thedotmack/claude-mem",
-    "Nutlope/hallmark",
-    "cloudflare/security-audit-skill",
-    "pingdotgg/t3code",
+    "anthropics/knowledge-work-plugins",
+    "morluto/rea",
     "HKUDS/DeepTutor",
-    "heygen-com/hyperframes",
+    "anthropics/claude-plugins-official",
+    "anthropics/skills",
+    "pingdotgg/t3code",
     "AgriciDaniel/claude-seo",
+    "cloudflare/security-audit-skill",
+    "Vincentwei1021/video-shotcraft",
+    "Nutlope/hallmark",
+    "heygen-com/hyperframes",
+    "debpalash/VoiceStudio",
+    "thedotmack/claude-mem",
     "pbakaus/impeccable",
-    "morluto/rea"
+    "Leonxlnx/taste-skill"
   ]
 }
