@@ -1,19 +1,20 @@
 {
   "repos": [
-    "anthropics/knowledge-work-plugins",
-    "morluto/rea",
-    "HKUDS/DeepTutor",
+    "Leonxlnx/taste-skill",
     "anthropics/claude-plugins-official",
-    "anthropics/skills",
-    "pingdotgg/t3code",
-    "AgriciDaniel/claude-seo",
-    "cloudflare/security-audit-skill",
-    "Vincentwei1021/video-shotcraft",
-    "Nutlope/hallmark",
-    "heygen-com/hyperframes",
-    "debpalash/VoiceStudio",
     "thedotmack/claude-mem",
+    "Vincentwei1021/video-shotcraft",
+    "AgriciDaniel/claude-seo",
+    "HKUDS/DeepTutor",
+    "anthropics/skills",
+    "heygen-com/hyperframes",
     "pbakaus/impeccable",
-    "Leonxlnx/taste-skill"
+    "pingdotgg/t3code",
+    "vercel-labs/agent-browser",
+    "Nutlope/hallmark",
+    "anthropics/knowledge-work-plugins",
+    "debpalash/VoiceStudio",
+    "morluto/rea",
+    "cloudflare/security-audit-skill"
   ]
 }
