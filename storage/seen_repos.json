@@ -1,22 +1,9 @@
 {
   "repos": [
-    "vercel-labs/agent-browser",
-    "Leonxlnx/taste-skill",
-    "cloudflare/security-audit-skill",
-    "HKUDS/DeepTutor",
-    "heygen-com/hyperframes",
-    "sherlock-project/sherlock",
-    "AgriciDaniel/claude-seo",
-    "anthropics/skills",
     "pingdotgg/t3code",
-    "pbakaus/impeccable",
+    "anthropics/skills",
     "Nutlope/hallmark",
-    "debpalash/VoiceStudio",
-    "morluto/rea",
-    "backnotprop/plannotator",
-    "anthropics/knowledge-work-plugins",
-    "anthropics/claude-plugins-official",
     "thedotmack/claude-mem",
-    "Vincentwei1021/video-shotcraft"
+    "cloudflare/security-audit-skill"
   ]
 }
