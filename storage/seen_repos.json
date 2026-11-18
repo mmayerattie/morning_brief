@@ -1,9 +1,14 @@
 {
   "repos": [
-    "pingdotgg/t3code",
-    "anthropics/skills",
+    "backnotprop/plannotator",
+    "HKUDS/DeepTutor",
     "Nutlope/hallmark",
+    "cloudflare/security-audit-skill",
+    "pingdotgg/t3code",
+    "milind-soni/OpenMausBot",
+    "anthropics/skills",
     "thedotmack/claude-mem",
-    "cloudflare/security-audit-skill"
+    "pbakaus/impeccable",
+    "php/php-src"
   ]
 }
