@@ -1,22 +1,9 @@
 {
   "repos": [
-    "cloudflare/security-audit-skill",
-    "milind-soni/OpenMausBot",
-    "pbakaus/impeccable",
-    "sherlock-project/sherlock",
-    "pingdotgg/t3code",
-    "kajisho5/ffmpeg-skill",
-    "google-labs-code/stitch-skills",
-    "elementalsouls/Claude-BugHunter",
     "Nutlope/hallmark",
-    "vercel-labs/agent-browser",
-    "backnotprop/plannotator",
-    "AgriciDaniel/claude-seo",
-    "Jakeschincariol/instagram-agent-skill",
-    "php/php-src",
-    "thedotmack/claude-mem",
-    "HKUDS/DeepTutor",
-    "heygen-com/hyperframes",
-    "anthropics/skills"
+    "cloudflare/security-audit-skill",
+    "pingdotgg/t3code",
+    "anthropics/skills",
+    "milind-soni/OpenMausBot"
   ]
 }
