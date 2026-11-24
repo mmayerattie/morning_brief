@@ -1,19 +1,23 @@
 {
   "repos": [
-    "heygen-com/hyperframes",
-    "sherlock-project/sherlock",
-    "google-labs-code/stitch-skills",
     "milind-soni/OpenMausBot",
-    "cloudflare/security-audit-skill",
-    "pbakaus/impeccable",
+    "Nutlope/hallmark",
     "backnotprop/plannotator",
+    "Jakeschincariol/instagram-agent-skill",
+    "sherlock-project/sherlock",
+    "thedotmack/claude-mem",
+    "Ebony-Vinyl/dsh-our-free-model",
+    "HKUDS/DeepTutor",
+    "google-labs-code/stitch-skills",
+    "pingdotgg/t3code",
+    "pbakaus/impeccable",
+    "kajisho5/ffmpeg-skill",
+    "elementalsouls/Claude-BugHunter",
+    "vercel-labs/agent-browser",
+    "heygen-com/hyperframes",
     "AgriciDaniel/claude-seo",
     "anthropics/skills",
-    "HKUDS/DeepTutor",
-    "Jakeschincariol/instagram-agent-skill",
-    "Nutlope/hallmark",
-    "thedotmack/claude-mem",
     "yetone/magpie",
-    "pingdotgg/t3code"
+    "cloudflare/security-audit-skill"
   ]
 }
