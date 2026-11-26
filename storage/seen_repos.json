@@ -1,9 +1,14 @@
 {
   "repos": [
-    "anthropics/skills",
-    "Nutlope/hallmark",
+    "pingdotgg/t3code",
+    "HKUDS/DeepTutor",
     "cloudflare/security-audit-skill",
     "milind-soni/OpenMausBot",
-    "pingdotgg/t3code"
+    "Ebony-Vinyl/dsh-our-free-model",
+    "backnotprop/plannotator",
+    "Nutlope/hallmark",
+    "thedotmack/claude-mem",
+    "anthropics/skills",
+    "Jakeschincariol/instagram-agent-skill"
   ]
 }
