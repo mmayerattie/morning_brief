@@ -1,14 +1,19 @@
 {
   "repos": [
-    "pingdotgg/t3code",
+    "sherlock-project/sherlock",
     "HKUDS/DeepTutor",
-    "cloudflare/security-audit-skill",
+    "anthropics/skills",
+    "backnotprop/plannotator",
     "milind-soni/OpenMausBot",
     "Ebony-Vinyl/dsh-our-free-model",
-    "backnotprop/plannotator",
-    "Nutlope/hallmark",
+    "AgriciDaniel/claude-seo",
+    "pingdotgg/t3code",
+    "Jakeschincariol/instagram-agent-skill",
+    "yetone/magpie",
+    "pbakaus/impeccable",
+    "google-labs-code/stitch-skills",
     "thedotmack/claude-mem",
-    "anthropics/skills",
-    "Jakeschincariol/instagram-agent-skill"
+    "Nutlope/hallmark",
+    "cloudflare/security-audit-skill"
   ]
 }
