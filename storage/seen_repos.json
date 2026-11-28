@@ -1,19 +1,23 @@
 {
   "repos": [
+    "thedotmack/claude-mem",
     "sherlock-project/sherlock",
     "HKUDS/DeepTutor",
+    "heygen-com/hyperframes",
     "anthropics/skills",
-    "backnotprop/plannotator",
+    "kajisho5/ffmpeg-skill",
     "milind-soni/OpenMausBot",
-    "Ebony-Vinyl/dsh-our-free-model",
-    "AgriciDaniel/claude-seo",
     "pingdotgg/t3code",
-    "Jakeschincariol/instagram-agent-skill",
-    "yetone/magpie",
-    "pbakaus/impeccable",
+    "elementalsouls/Claude-BugHunter",
     "google-labs-code/stitch-skills",
-    "thedotmack/claude-mem",
+    "Ebony-Vinyl/dsh-our-free-model",
+    "backnotprop/plannotator",
+    "cloudflare/security-audit-skill",
+    "pbakaus/impeccable",
+    "yetone/magpie",
     "Nutlope/hallmark",
-    "cloudflare/security-audit-skill"
+    "Jakeschincariol/instagram-agent-skill",
+    "vercel-labs/agent-browser",
+    "AgriciDaniel/claude-seo"
   ]
 }
